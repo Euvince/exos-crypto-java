@@ -1,4 +1,4 @@
-package Exercices.ChiffrementCézar;
+package ChiffrementCezar;
 
 import java.util.Arrays;
 import java.util.Scanner;
